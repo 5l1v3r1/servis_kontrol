@@ -1,0 +1,6 @@
+{
+  "name": "Bashtea",
+  "tagline": "Servis Kontrolü & Centos",
+  "body": "### Nedir Bu Script?\r\nBasit bir Bash Script ve Crontab üzerinde her dakika çalıştırsak, ilgili servisi sürekli kontrol eder. Stop olduğunu gördüğü zaman otomatik olarak servisi başlatır. Üstüne üstlük bir de bize e-posta gönderir. Servis stop durumdaydı start ettim.\r\n\r\n### Ayarlar\r\nAyarlar menüsünde sadece servis ismini (mysql, http vesaire) ve e-posta adresinizi yazmanız yeterli olacaktır. \r\n\r\n### Özellikler\r\nÇalışan processler içerisinde servisin adını arar, bulamazsa start komutunu gönderir. Servisi başlatır ve size e-posta ile bilgi gönderir. Ancak servis başlamıyorsa, start ettiğinde hata veriyorsa, yine size e-posta göndererek servisin başlamadığını belirtir. \r\n\r\n### Wordpress kullanıcıları\r\nWP kullanıcıları için ideal bir script olabilir. Contab içerisinde 1 dakika ile zamanlarsanız bu scripti kolay kolay veritabanı hatası almazsınız. Malumunuz WP database bağlantısı koptu hatası sıklıkla karşımıza çıkar. \r\n\r\n### Destek\r\nHacılar el atın da scripte yeni özellikler ekleyelim .) @teakolik",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
