@@ -1,4 +1,4 @@
-# bash_script
+# Servis Kontrol
 ### Nedir Bu Script?
 Basit bir Bash Script ve Crontab üzerinde her dakika çalıştırırsanız ilgili servisi sürekli kontrol eder. Servisin çalışmadığını görürse otomatik olarak servisi başlatır. Üstüne üstlük bir de bize e-posta gönderir. **"Servis Stop Durumdaydı Start Ettim"** Eğer servis start olmuyorsa yine size e-posta gönderir **"Servis Patladı Yardım Lazım"** şeklinde bilgi verir.
 
